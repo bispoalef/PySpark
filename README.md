@@ -24,5 +24,7 @@ Em caso de dúvidas ou sugestões relacionadas a este projeto, sinta-se à vonta
 Espero que este projeto seja útil para você e inspire suas próprias análises de dados usando o PySpark e o Google Colab!
 
 
-## Imagem de trecho do projeto
+## Imagens do projeto
+![image](https://github.com/bispoalef/PySpark/assets/111475913/c07b2d61-1397-43fb-b568-8f29fb5f100d)
+
 ![image](https://github.com/bispoalef/PySpark/assets/111475913/ed22c9bb-f6fd-4abf-ad0e-911d8eb8c1ee)
